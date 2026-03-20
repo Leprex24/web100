@@ -134,11 +134,14 @@ localhost:5000/web100:latest
 
 ## DockerHub
 
-https://hub.docker.com/r/TWOJNICK/web100
+https://hub.docker.com/r/Leprex24/pawcho-sawicki
+
+nazwa tagu:
+Leprex24/pawcho-sawicki:web100.v1.0.0
 
 ---
 
 ## Repozytorium GitHub
 
- (tu wklej link do repo)
+https://github.com/Leprex24/web100
 
